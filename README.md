@@ -1,5 +1,6 @@
 # aquabac
-Sujat Desai and Andy Liu : Sigmahacks3 : AQUABAC 
+Sujat Desai and Andy Liu : Sigmahacks3 : AQUABAC (Made in America) 
+
 google drive folders with datasets: https://drive.google.com/drive/folders/1ns7ZuHv6KxzOah4vD71zQsJzDqOLcbDm?usp=sharing
 
 Added note: due to some constraints, exporting the google cloud ML model that we had trained was very hard to do. However here is some information on the performance of our model - !
